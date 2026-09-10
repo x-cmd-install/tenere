@@ -23,7 +23,17 @@ x install tenere
 - **Latest**: `v0.11.3` (2025-09-01)
 - **Last commit**: 2026-05-10
 - **Assets in release**: 6
-- **Published**: 2025-09-01T18:46:32Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tenere-aarch64-apple-darwin](https://github.com/pythops/tenere/releases/download/v0.11.3/tenere-aarch64-apple-darwin) | 6.9 MiB | `native/darwin/arm64` |
+| [tenere-aarch64-pc-windows-msvc.exe](https://github.com/pythops/tenere/releases/download/v0.11.3/tenere-aarch64-pc-windows-msvc.exe) | 8.0 MiB | `native/win/arm64` |
+| [tenere-x86_64-apple-darwin](https://github.com/pythops/tenere/releases/download/v0.11.3/tenere-x86_64-apple-darwin) | 7.4 MiB | `native/darwin/x64` |
+| [tenere-x86_64-pc-windows-msvc.exe](https://github.com/pythops/tenere/releases/download/v0.11.3/tenere-x86_64-pc-windows-msvc.exe) | 8.8 MiB | `native/win/x64` |
+| [tenere-x86_64-unknown-linux-gnu](https://github.com/pythops/tenere/releases/download/v0.11.3/tenere-x86_64-unknown-linux-gnu) | 8.3 MiB | `native/linux/x64/glibc` |
+| [tenere-x86_64-unknown-linux-musl](https://github.com/pythops/tenere/releases/download/v0.11.3/tenere-x86_64-unknown-linux-musl) | 8.5 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -56,8 +66,8 @@ Total: **1,795** lines of code across **22** files in the top 5 languages.
 Install metadata for tenere lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tenere` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tenere.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tenere.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:45:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:39:27Z._
