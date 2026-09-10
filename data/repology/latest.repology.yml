@@ -1,0 +1,109 @@
+- repo: nix_stable_24_11
+  srcname: tenere
+  visiblename: tenere
+  version: 0.11.2-unstable-2024-12-05
+  origversion: null
+  status: outdated
+  summary: Terminal interface for large language models (LLMs)
+  maintainers:
+    - dev@ob7.us
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: tenere
+  binname: tenere
+  visiblename: tenere
+  version: 0.11.3
+  origversion: 0.11.3-1
+  status: newest
+  summary: TUI interface for LLMs written in Rust
+  maintainers:
+    - alerque@aur
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: tenere-bin
+  binname: tenere-bin
+  visiblename: tenere-bin
+  version: 0.11.3
+  origversion: 0.11.3-2
+  status: newest
+  summary: TUI interface for LLMs written in Rust
+  maintainers:
+    - vitaliikuzhdin@aur
+  licenses:
+    - GPL-3.0-only
+- repo: freebsd
+  srcname: misc/tenere
+  binname: tenere
+  visiblename: misc/tenere
+  version: 0.11.3
+  origversion: 0.11.3_8
+  status: newest
+  summary: TUI interface for LLMs
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: tenere
+  visiblename: tenere
+  version: 0.11.3
+  origversion: null
+  status: newest
+  summary: TUI interface for LLMs written in Rust
+- repo: nix_stable_24_05
+  srcname: tenere
+  visiblename: tenere
+  version: 0.11.2-unstable-2024-12-05
+  origversion: null
+  status: outdated
+  summary: Terminal interface for large language models (LLMs)
+  maintainers:
+    - dev@ob7.us
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: tenere
+  visiblename: tenere
+  version: 0.11.2-unstable-2024-12-05
+  origversion: null
+  status: outdated
+  summary: Terminal interface for large language models (LLMs)
+  maintainers:
+    - dev@ob7.us
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: tenere
+  visiblename: tenere
+  version: 0.11.3
+  origversion: null
+  status: newest
+  summary: Terminal interface for large language models (LLMs)
+  maintainers:
+    - dev@ob7.us
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: tenere
+  visiblename: tenere
+  version: 0.11.3
+  origversion: null
+  status: newest
+  summary: Terminal interface for large language models (LLMs)
+  maintainers:
+    - dev@ob7.us
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_unstable
+  srcname: tenere
+  visiblename: tenere
+  version: 0.11.3
+  origversion: null
+  status: newest
+  summary: Terminal interface for large language models (LLMs)
+  maintainers:
+    - dev@ob7.us
+  licenses:
+    - GPL-3.0-or-later
