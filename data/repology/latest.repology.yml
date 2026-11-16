@@ -1,16 +1,4 @@
 - repo: aur
-  srcname: tenere-bin
-  binname: tenere-bin
-  visiblename: tenere-bin
-  version: 0.11.3
-  origversion: 0.11.3-2
-  status: newest
-  summary: TUI interface for LLMs written in Rust
-  maintainers:
-    - vitaliikuzhdin@aur
-  licenses:
-    - GPL-3.0-only
-- repo: aur
   srcname: tenere
   binname: tenere
   visiblename: tenere
@@ -20,6 +8,18 @@
   summary: TUI interface for LLMs written in Rust
   maintainers:
     - alerque@aur
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: tenere-bin
+  binname: tenere-bin
+  visiblename: tenere-bin
+  version: 0.11.3
+  origversion: 0.11.3-2
+  status: newest
+  summary: TUI interface for LLMs written in Rust
+  maintainers:
+    - vitaliikuzhdin@aur
   licenses:
     - GPL-3.0-only
 - repo: freebsd
